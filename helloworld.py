@@ -1,1 +1,1 @@
-print ("LInux WOrld")
+print ("LInux World")
